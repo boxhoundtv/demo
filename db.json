@@ -1,22 +1,4 @@
 {
-  "videos": [
-   {
-      "id": 2,
-      "title": "Willder vs Tyson",
-      "img": "/floyd1.png",
-      "date": "29-4-19"
-    },
-    {
-      "id": 3,
-      "title": "Willder vs Tyson",
-      "img": "/ohara_davies.jpg",
-      "date": "29-4-19"
-    },
-    {
-      "id": 4,
-      "title": "/This is Boxing",
-      "img": "/floyd-low.png",
-      "date": "29-4-19"
-    }
-  ],
+  "id": 1,
+  "title": "hello"
 }
